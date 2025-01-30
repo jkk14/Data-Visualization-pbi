@@ -37,4 +37,4 @@ The analysis focuses on answering critical **business analytics questions**, inc
 ## **How to Use**  
 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/jkk14/Data Visualization-pbi.git
+git clone https://github.com/jkk14/Data-Visualization-pbi.git
