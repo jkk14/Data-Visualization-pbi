@@ -1,7 +1,9 @@
 📊 Data Visualization Projects – Power BI
+
 Welcome to Data-Visualization-PBI, a collection of insightful Power BI projects designed to transform raw data into actionable insights! 🚀 This repository showcases my expertise in data analytics, business intelligence, and visual storytelling through interactive dashboards and reports.
 
 🌟 Projects Included
+
 1️⃣ 📈 Product Sales Analysis
 Objective: Unlock key business insights by analyzing revenue, profit, and sales trends across various product categories and regions.
 🔹 Total revenue & profit analysis
