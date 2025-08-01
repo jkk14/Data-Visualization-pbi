@@ -1,66 +1,91 @@
 # 🚗 Car Sales Analysis Dashboard (Power BI)
 
-This project presents a comprehensive Power BI dashboard built to analyze car sales data across the United States from **2022 to 2023**. The goal is to uncover sales trends, product performance, seasonal variations, and profitability insights to support data-driven business decisions.
+This Power BI project provides a detailed analysis of car sales across the United States from 2022 to 2023. The dashboard explores customer behavior, seasonal trends, regional performance, product preferences, and brand competitiveness — helping stakeholders drive data-informed business strategies.
 
 ---
 
-## 📊 Key Insights & Features
+## 📊 Dashboard Sections & Insights
 
-- **Monthly Sales Trends**  
-  Identifies peak sales periods (e.g., May and August) and notable drops across months in both 2022 and 2023.
-
-- **Regional Performance**  
-  Compares sales volume across regions/states to reveal high-performing areas.
-
-- **Product Category Analysis**  
-  Evaluates the performance of product lines such as Paseo, VTT, Velo, Amarilla, Montana, and Carretera — including their profit margins:
-  - Paseo: **28.40%**
-  - VTT: **17.96%**
-  - Velo: **13.65%**
-  - Amarilla: **16.66%**
-  - Montana: **12.52%**
-  - Carretera: **10.81%**
-
-- **Profitability Overview**  
-  Visualizes revenue vs. profit, highlights top-selling and most profitable product categories.
-
-- **Sales by Car Attributes**  
-  Breakdowns based on color, engine type, and transmission preferences.
+### 🗓️ 1. Monthly Sales Trends (2022–2023)
+- **Peaks observed in May and August**, consistently across both years.
+- **Sales drops in January and September**, possibly due to post-holiday and back-to-school transitions.
+- **Insight:** Seasonal campaigns should be concentrated around Q2 and Q3 to maximize impact.
 
 ---
 
-## 📁 Project Structure
-
-| File Name | Description |
-|-----------|-------------|
-| `Car sales analysis.pbix` | Power BI file containing the full dashboard |
+### 🚘 2. Brand Comparison
+- **Top-performing brands** include **Chevrolet, Dodge, Ford, and Volkswagen** — especially among high-income customers.
+- Luxury brands like **BMW, Mercedes-Benz, and Jaguar** attract mostly high-income buyers.
+- **Insight:** Mass-market brands show cross-income appeal; luxury brands need targeted, premium messaging.
 
 ---
 
-## 🛠️ Tools Used
+### 🌍 3. Regional Sales Performance (Map)
+- **Austin, Janesville, and Scottsdale** recorded the highest total car sales.
+- **Aurora and Pasco** had the lowest.
+- **Actionable Insight:** Expand operations or marketing in high-demand regions; analyze lagging areas for improvement opportunities.
+
+---
+
+### 🧑‍🤝‍🧑 4. Demographic Breakdown
+
+#### 🏦 Income Group
+- High-income customers dominate with **15,370+ sales**.
+- Middle- and low-income groups follow significantly behind.
+
+#### 🚻 Gender
+- **Female customers** account for nearly **79%** of sales.
+- **Insight:** Tailor marketing and showroom experiences to female and high-income demographics.
+
+---
+
+### ⚙️ 5. Customer Preferences – Specifications
+
+#### Transmission
+- **Automatic (12.6K)** edges out **Manual (11.3K)**.
+
+#### Engine Type
+- Almost even split between **Overhead Camshaft** and **Double Overhead Camshaft**.
+
+#### Color
+- **Black, Pale White, and Red** are the most preferred.
+
+#### Body Style
+- **SUVs and Hatchbacks** dominate, followed by Sedans and Passenger cars.
+
+**Actionable Insight:** Inventory management should prioritize SUVs and automatic, black-colored cars.
+
+---
+
+## 📈 Business Implications
+
+- **Optimize seasonal campaigns** around May and August.
+- **Focus on top-performing regions** and top-selling brands.
+- **Stock high-demand specifications** (SUV, automatic, black color).
+- **Target high-income and female buyers** for improved conversion.
+
+---
+
+## 📁 Included File
+
+- `Car_Sales_Analysis.pbix` – Interactive Power BI dashboard
+
+---
+
+## 🛠 Tools Used
 
 - Microsoft Power BI
-- Microsoft Excel (data source)
-- GitHub (version control)
-
----
-
-## 📌 Business Value
-
-This analysis helps:
-- Identify sales opportunities
-- Allocate marketing and sales efforts by region
-- Recommend stocking based on consumer preferences
-- Optimize product focus based on profitability
+- GitHub
 
 ---
 
 ## 👤 Author
 
-**Jesse**  
+**Jesse Kumah**  
 GitHub: [@jkk14](https://github.com/jkk14)
 
 ---
 
-> 📌 *Note: This is a static dashboard intended for presentation and reporting purposes, without interactive slicers.*
+> This dashboard is a static presentation built for insight delivery. Future versions may include interactive filtering and drill-downs.
+
 
