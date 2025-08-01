@@ -68,7 +68,7 @@ This Power BI project provides a detailed analysis of car sales across the Unite
 
 ## 📁 Included File
 
-- `Car_Sales_Analysis.pbix` – Interactive Power BI dashboard
+- `Car Sales Analysis(1).pbix` – Interactive Power BI dashboard
 
 ---
 
